@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037385570945",
+    "firebase_url": "https://fir-lab2.firebaseio.com",
+    "project_id": "fir-lab2",
+    "storage_bucket": "fir-lab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037385570945:android:4fc53df7beb1e790",
+        "android_client_info": {
+          "package_name": "lyapkoandy13.firebaselab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037385570945-4ku9mk752mqju1p8r45icncjoe59nmv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYW4dGZKheMCE5vCFUusakZ6lBqTQXIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037385570945-4ku9mk752mqju1p8r45icncjoe59nmv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

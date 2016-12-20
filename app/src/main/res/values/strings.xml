@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirebaseLab2</string>
+    <string name="facebook_app_id">1155020131241806</string>
+    <string name="fb_login_protocol_scheme">fb1155020131241806</string>
+    <string name="server_client_id">1037385570945-4ku9mk752mqju1p8r45icncjoe59nmv8.apps.googleusercontent.com</string>
+</resources>
